@@ -7,7 +7,7 @@ Web Developer
 An enthusiastic individual with a solid foundation in web development and a passion for creating exceptional user experiences and amazing web services.
 
 * 🌍  I'm based in Toronto.
-* 🖥️  See my portfolio at [MyPortfolio](http://sakshiwebportfolio.onrender.com/)
+* 🖥️  See my portfolio at [MyPortfolio](https://sakshi-web-portfolio.vercel.app/)
 * ✉️  You can contact me at [ghera.sakshi@gmail.com](mailto:ghera.sakshi@gmail.com)
 * 🧠  I'm learning Node.js.
 * 🤝  I'm open to collaborating on Web Dev projects.
