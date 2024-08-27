@@ -9,7 +9,7 @@ An enthusiastic individual with a solid foundation in web development and a pass
 * 🌍  I'm based in Toronto.
 * 🖥️  See my portfolio at [MyPortfolio](https://sakshi-web-portfolio.vercel.app/)
 * ✉️  You can contact me at [ghera.sakshi@gmail.com](mailto:ghera.sakshi@gmail.com)
-* 🧠  I'm learning Node.js.
+* 🧠  I'm learning Next.js.
 * 🤝  I'm open to collaborating on Web Dev projects.
 
 <a href="https://www.github.com/itz-Sakshi" target="_blank" rel="noreferrer"><img
